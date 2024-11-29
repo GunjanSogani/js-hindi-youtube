@@ -1,5 +1,7 @@
 let score = "hitesh"
 
+let mohitScore = "mohit"
+
 //console.log(typeof score);
 //console.log(typeof (score));
 
